@@ -1,0 +1,12 @@
+INSERT INTO employees (emp_id, emp_name, dept, role)
+VALUES
+    (1, 'Ravi Kumar', 'Engineering', 'Software Engineer'),
+    (2, 'Priya Sharma', 'Human Resources', 'HR Executive'),
+    (3, 'Arun Kumar', 'Finance', 'Financial Analyst'),
+    (4, 'Sneha Reddy', 'Engineering', 'Backend Developer'),
+    (5, 'Karthik Rao', 'Marketing', 'Marketing Manager'),
+    (6, 'Divya Lakshmi', 'Engineering', 'QA Engineer'),
+    (7, 'Vijay Anand', 'Operations', 'Operations Analyst'),
+    (8, 'Meena Devi', 'Finance', 'Accountant'),
+    (9, 'Suresh Babu', 'Engineering', 'Tech Lead'),
+    (10, 'Ananya Rao', 'Marketing', 'Marketing Analyst');
